@@ -5,10 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-//        <img src={logo} className="App-logo" alt="logo" />
+<!--        <img src={logo} className="App-logo" alt="logo" /> -->
         <p>
-//          Edit <code>src/App.js</code> and save to reload.
-            Soxx gh page
+<!--          Edit <code>src/App.js</code> and save to reload. -->
+            <bold><h1>Soxx gh page</h1></bold>
         </p>
         <a
           className="App-link"
